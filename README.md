@@ -66,8 +66,7 @@ streamlit run app.py
 ```
 ---
 ## Demo
-https://github.com/Student-ChinmayaMohanty/Text_summerizer_app/blob/main/Screenshot%202026-04-28%20095459.png?raw=true
-
+![App Screenshot](https://raw.githubusercontent.com/Student-ChinmayaMohanty/Text_summerizer_app/main/Screenshot%202026-04-28%20095459.png)
 ---
 
 ## 💡 How It Works
